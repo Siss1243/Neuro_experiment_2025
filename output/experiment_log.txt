@@ -1,0 +1,113 @@
+=== Experiment Log ===
+TRIG 1 sent at 0.0 sec
+TRIG 1 (Fake)
+[3.57 sec] Baseline skipped.
+TRIG 2 sent at 3.57 sec
+TRIG 2 (Fake)
+ ---- Disappearance 1: predictable ----
+TRIG 10 sent at 6.88 sec
+TRIG 10 (Fake)
+[6.88 sec] Logo disappeared at (0.03, 0.38). In corner: False
+TRIG 200 sent at 8.39 sec
+[8.4 sec] Logo reappeared at (0.21, 0.06). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 2: predictable ----
+TRIG 10 sent at 14.87 sec
+TRIG 10 (Fake)
+[14.87 sec] Logo disappeared at (-0.15, 0.6). In corner: False
+TRIG 200 sent at 16.38 sec
+[16.38 sec] Logo reappeared at (-0.33, 0.28). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 3: predictable ----
+TRIG 10 sent at 22.53 sec
+TRIG 10 (Fake)
+[22.53 sec] Logo disappeared at (0.19, 0.63). In corner: False
+TRIG 200 sent at 24.04 sec
+[24.04 sec] Logo reappeared at (0.37, 0.8). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 4: predictable ----
+TRIG 10 sent at 31.2 sec
+TRIG 10 (Fake)
+[31.2 sec] Logo disappeared at (-0.45, 0.52). In corner: False
+TRIG 201 sent at 32.71 sec
+[32.71 sec] Logo reappeared at (-0.63, 0.8). In corner: True
+TRIG 201 (Fake)
+ ---- Disappearance 5: predictable ----
+TRIG 10 sent at 37.05 sec
+TRIG 10 (Fake)
+[37.05 sec] Logo disappeared at (0.03, -0.67). In corner: False
+TRIG 200 sent at 38.55 sec
+[38.56 sec] Logo reappeared at (0.21, -0.35). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 6: predictable ----
+TRIG 10 sent at 46.19 sec
+TRIG 10 (Fake)
+[46.2 sec] Logo disappeared at (-0.44, -0.4). In corner: False
+TRIG 200 sent at 47.7 sec
+[47.71 sec] Logo reappeared at (-0.62, -0.08). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 7: unpredictable ----
+TRIG 10 sent at 51.72 sec
+TRIG 10 (Fake)
+[51.72 sec] Logo disappeared at (-0.04, 0.05). In corner: False
+TRIG 210 sent at 53.22 sec
+[53.23 sec] Logo reappeared at (0.69, 0.52). In corner: False
+TRIG 210 (Fake)
+[59.09 sec] Question 1 shown.
+TRIG 4 sent at 59.09 sec
+TRIG 4 (Fake)
+TRIG 40 (Fake)
+[65.57] Answer received: Correct (Expected: down, Given: down)
+TRIG 5 sent at 65.57 sec
+TRIG 5 (Fake)
+ ---- Disappearance 8: predictable ----
+TRIG 10 sent at 73.51 sec
+TRIG 10 (Fake)
+[73.51 sec] Logo disappeared at (0.75, 0.11). In corner: False
+TRIG 200 sent at 75.01 sec
+[75.02 sec] Logo reappeared at (0.57, 0.43). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 9: predictable ----
+TRIG 10 sent at 79.38 sec
+TRIG 10 (Fake)
+[79.39 sec] Logo disappeared at (-0.46, -0.61). In corner: False
+TRIG 201 sent at 80.89 sec
+[80.9 sec] Logo reappeared at (-0.64, -0.8). In corner: True
+TRIG 201 (Fake)
+ ---- Disappearance 10: predictable ----
+TRIG 10 sent at 86.07 sec
+TRIG 10 (Fake)
+[86.07 sec] Logo disappeared at (0.27, 0.28). In corner: False
+TRIG 200 sent at 87.58 sec
+[87.58 sec] Logo reappeared at (0.45, -0.04). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 11: predictable ----
+TRIG 10 sent at 91.87 sec
+TRIG 10 (Fake)
+[91.87 sec] Logo disappeared at (0.15, 0.18). In corner: False
+TRIG 200 sent at 93.38 sec
+[93.38 sec] Logo reappeared at (-0.03, 0.49). In corner: False
+TRIG 200 (Fake)
+ ---- Disappearance 12: unpredictable ----
+TRIG 10 sent at 100.94 sec
+TRIG 10 (Fake)
+[100.95 sec] Logo disappeared at (0.23, 0.4). In corner: False
+TRIG 210 sent at 102.45 sec
+[102.45 sec] Logo reappeared at (-0.54, 0.54). In corner: False
+TRIG 210 (Fake)
+ ---- Disappearance 13: predictable ----
+TRIG 10 sent at 107.98 sec
+TRIG 10 (Fake)
+[107.98 sec] Logo disappeared at (0.75, 0.08). In corner: False
+TRIG 200 sent at 109.49 sec
+[109.49 sec] Logo reappeared at (0.8, 0.4). In corner: False
+TRIG 200 (Fake)
+ ---Final disappearance triggered ([110.0 sec]). ----
+TRIG 98 sent at 111.52 sec
+TRIG 98 (Fake)
+TRIG 99 sent at 114.53 sec
+TRIG 99 (Fake)
+[115.13 sec] The logo has disappeared through the bottom-right.
+TRIG 3 sent at 120.0 sec
+Trial data saved to /Users/sisselhoejgaard/Desktop/EEG_Experiment/output/trial_data.csv
+=== Experiment End ===

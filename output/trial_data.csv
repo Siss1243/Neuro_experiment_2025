@@ -1,0 +1,14 @@
+disappearance_number,disappeared_in_corner,reappearance_type,reappeared_in_corner
+1,False,predictable,False
+2,False,predictable,False
+3,False,predictable,False
+4,False,predictable,True
+5,False,predictable,False
+6,False,predictable,False
+7,False,unpredictable,False
+8,False,predictable,False
+9,False,predictable,True
+10,False,predictable,False
+11,False,predictable,False
+12,False,unpredictable,False
+13,False,predictable,False
