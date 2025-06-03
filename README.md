@@ -11,7 +11,7 @@ The code implements:
 - Controlled occlusion and trajectory violation logic
 - Parallel port triggers for EEG synchronization
 - Attention check prompts
-- op-in possability to near-cornor detection logic and final diappearance event
+- Optional logic for near-corner detection and final disappearance event
 
 Visual illustration of experiment:
 ![Stimulus Demo](docs/stimulus_demo.gif)
@@ -64,5 +64,5 @@ This experiment was developed by:
 
 ## Citation
 
-> Gejl, A.M.O., Varan, A.H., Kubiena, L., Vang-Pedersen, S.H.*, & Scharf, S. (2025). *EEG-Mismatch Detection in Cognitive Tracking*. GitHub repository: [[https://github.com/your-repo](https://github.com/your-repo)](https://github.com/Siss1243/Neuro_experiment_2025.git)
+> Gejl, A.M.O., Varan, A.H., Kubiena, L., Vang-Pedersen, S.H.*, & Scharf, S. (2025). *EEG-Mismatch Detection in Cognitive Tracking*. GitHub repository:(https://github.com/Siss1243/Neuro_experiment_2025.git)
 
