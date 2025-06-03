@@ -1,6 +1,6 @@
 # EEG-Mismatch Detection in Cognitive Tracking
 
-This repository contains the stimulus code and relevant documentation for our EEG experiment investigating mismatch detection during object tracking. The experiment was developed in PsychoPy and designed as a visual oddball paradigm with dynamic motion stimuli.
+This repository contains the stimulus code and relevant documentation for our EEG experiment investigating mismatch detection during object tracking. The experiment was developed in PsychoPy (2024.2.4) and designed as a visual oddball paradigm with dynamic motion stimuli.
 
 ## Experimental Design
 
