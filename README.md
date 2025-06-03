@@ -23,6 +23,26 @@ Visual illustration of experiment:
 
 See [`triggers.md`](triggers.md) for a full description of trigger values used for EEG recording.
 
+EEG Trigger List
+
+| Trigger Value | Event Description                        |
+|---------------|------------------------------------------|
+| 1             | Experiment start                         |
+| 2             | Baseline ends                            |
+| 3             | Experiment end                           |
+| 4             | Attention question appears               |
+| 5             | Attention question disappears            |
+| 10            | Disappearance (standard location)        |
+| 11            | Disappearance (near corner)              |
+| 200           | Predictable reappearance                 |
+| 201           | Predictable reappearance (near corner)   |
+| 210           | Unpredictable reappearance               |
+| 211           | Unpredictable reappearance (near corner) |
+| 40            | Participant response correct             |
+| 41            | Participant response incorrect           |
+| 98            | Final disappearance starts               |
+| 99            | Final disappearance ends (logo exits)    |
+
 ## 📁 File Overview
 
 - `experiment.py`: Main PsychoPy script
