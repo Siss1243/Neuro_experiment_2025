@@ -11,6 +11,7 @@ The code implements:
 - Controlled occlusion and trajectory violation logic
 - Parallel port triggers for EEG synchronization
 - Attention check prompts
+- op-in possability to near-cornor detection logic and final diappearance event
 
 Visual illustration of experiment:
 ![Stimulus Demo](docs/stimulus_demo.gif)
@@ -45,9 +46,18 @@ Visual illustration of experiment:
 ## File Overview
 
 - `experiment.py`: Main PsychoPy script
-- `logo.png`: Visual stimulus used
-- `docs/`: examples of outputs from runned experiments
+- `logo.png`: Visual stimulus used in the experiment
+- `triggers.py`: Parallel port trigger helper functions
+- `output/`: Folder with examples of output files (logfile and CSV)
 
---
+## 🧑‍💻 Authors
+
+This experiment was developed by:
+
+- Agnes Margrethe Ottosen Gejl  
+- Anders Herzog Varan  
+- Lukas Kubiena  
+- Sissel Højgaard Vang-Pedersen *(main author)*  
+- Sofia Scharf  
 
 *This work was conducted as part of the Cognitive Neuroscience course, Aarhus University.*
