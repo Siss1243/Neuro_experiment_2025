@@ -17,13 +17,10 @@ Visual illustration of experiment:
 
 ## 📺 Stimulus 
 
-
+![DVD Logo](logo.png)
 
 ## 🔢 Trigger List
 
-See [`triggers.md`](triggers.md) for a full description of trigger values used for EEG recording.
-
-EEG Trigger List
 
 | Trigger Value | Event Description                        |
 |---------------|------------------------------------------|
