@@ -2,7 +2,7 @@
 
 This repository contains the stimulus code and relevant documentation for our EEG experiment investigating mismatch detection during object tracking. The experiment was developed in PsychoPy and designed as a visual oddball paradigm with dynamic motion stimuli.
 
-## 🧠 Experimental Design
+## Experimental Design
 
 Participants track a moving DVD-logo across a screen. The logo occasionally disappears (1.5s occlusion) and then reappears either in a predictable or unpredictable position and trajectory. 
 
@@ -15,11 +15,13 @@ The code implements:
 Visual illustration of experiment:
 ![Stimulus Demo](docs/stimulus_demo.gif)
 
-## 📺 Stimulus 
+## Stimulus 
+
+*Figure: The red 2D DVD logo used as the moving stimulus in the experiment.*
 
 ![DVD Logo](logo.png)
 
-## 🔢 Trigger List
+## Trigger List
 
 
 | Trigger Value | Event Description                        |
@@ -40,7 +42,7 @@ Visual illustration of experiment:
 | 98            | Final disappearance starts               |
 | 99            | Final disappearance ends (logo exits)    |
 
-## 📁 File Overview
+## File Overview
 
 - `experiment.py`: Main PsychoPy script
 - `logo.png`: Visual stimulus used
