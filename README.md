@@ -64,5 +64,5 @@ This experiment was developed by:
 
 ## Citation
 
-> Gejl, A.M.O., Varan, A.H., Kubiena, L., Vang-Pedersen, S.H.*, & Scharf, S. (2025). *EEG-Mismatch Detection in Cognitive Tracking*. GitHub repository: [https://github.com/your-repo](https://github.com/your-repo)
+> Gejl, A.M.O., Varan, A.H., Kubiena, L., Vang-Pedersen, S.H.*, & Scharf, S. (2025). *EEG-Mismatch Detection in Cognitive Tracking*. GitHub repository: [[https://github.com/your-repo](https://github.com/your-repo)](https://github.com/Siss1243/Neuro_experiment_2025.git)
 
