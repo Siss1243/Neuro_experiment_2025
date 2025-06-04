@@ -64,7 +64,7 @@ This experiment was developed by:
 - Anders Herzog Varan  
 - Lukas Kubiena  
 - Sissel Højgaard Vang-Pedersen *(main author)*  
-- Sofia Scharf  
+- sofia Scharf-Matthiesen
 
 *This work was conducted as part of the Cognitive Neuroscience course, Aarhus University.*
 
