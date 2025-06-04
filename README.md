@@ -13,8 +13,14 @@ The code implements:
 - Attention check prompts
 - Optional logic for near-corner detection and final disappearance event
 
-Visual illustration of experiment:
-![Stimulus Demo](docs/stimulus_demo.gif)
+## Example Trials
+
+Below are side-by-side examples of a **predictable** and an **unpredictable** reappearance:
+
+| Predictable Trial | Unpredictable Trial |
+|-------------------|---------------------|
+| ![Predictable](predictable_trial.gif) | ![Unpredictable](unpredictable_trial.gif) |
+
 
 ## Stimulus 
 
